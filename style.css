@@ -1,0 +1,14 @@
+body {
+    background: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+.container{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 40%;
+    bottom: 40%;
+
+}
+
+
